@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -29,3 +30,16 @@ build/
 
 ### VS Code ###
 .vscode/
+=======
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+>>>>>>> 73f5a4eed5762e31d39f5a3ebb4c9bb710944c25
